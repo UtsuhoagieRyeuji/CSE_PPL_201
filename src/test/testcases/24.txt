@@ -1,0 +1,4 @@
+0x1234myID"Today is ** sunny"**Begin comment
+*Line1
+*Line2
+**

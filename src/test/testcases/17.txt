@@ -1,0 +1,1 @@
+"This is a string contain intlit 1xABC and floatlit 77.e31"
